@@ -37,9 +37,11 @@ Results-driven **Software Engineer** with 4+ years of experience specializing in
 - **[Project 2: Real-Time Healthcare Chat System](#)** - Built a **HIPAA-compliant** doctor-patient chat system using **React.js, Node.js, WebSockets**.  
 - **[Project 3: AI-Powered Resume Analyzer](#)** - Designed an AI-powered tool using **Python, NLP, and AWS SageMaker** to analyze and optimize resumes.  
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Graphs
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatlolla&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatlolla&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulpatlolla&theme=radical)  
+![Rahul's Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatlolla&theme=radical)  
 
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulPatlolla-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-patlolla/)  
